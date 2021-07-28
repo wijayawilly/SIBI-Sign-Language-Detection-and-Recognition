@@ -1,0 +1,41 @@
+454/454 [==============================] - 220s 443ms/step - loss: 2.4038 - accuracy: 0.3037 - val_loss: 1.0676 - val_accuracy: 0.7398
+Epoch 2/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.6037 - accuracy: 0.8254 - val_loss: 0.3268 - val_accuracy: 0.9039
+Epoch 3/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.2787 - accuracy: 0.9209 - val_loss: 0.1941 - val_accuracy: 0.9457
+Epoch 4/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.1668 - accuracy: 0.9517 - val_loss: 0.1346 - val_accuracy: 0.9608
+Epoch 5/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.1056 - accuracy: 0.9709 - val_loss: 0.1102 - val_accuracy: 0.9672
+Epoch 6/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0733 - accuracy: 0.9805 - val_loss: 0.1079 - val_accuracy: 0.9715
+Epoch 7/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0556 - accuracy: 0.9847 - val_loss: 0.0788 - val_accuracy: 0.9776
+Epoch 8/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0381 - accuracy: 0.9903 - val_loss: 0.0669 - val_accuracy: 0.9807
+Epoch 9/100
+454/454 [==============================] - 197s 434ms/step - loss: 0.0352 - accuracy: 0.9904 - val_loss: 0.0653 - val_accuracy: 0.9814
+Epoch 10/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0281 - accuracy: 0.9924 - val_loss: 0.0609 - val_accuracy: 0.9830
+Epoch 11/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0242 - accuracy: 0.9939 - val_loss: 0.0856 - val_accuracy: 0.9752
+Epoch 12/100
+454/454 [==============================] - 197s 434ms/step - loss: 0.0246 - accuracy: 0.9933 - val_loss: 0.0772 - val_accuracy: 0.9784
+Epoch 13/100
+454/454 [==============================] - 197s 434ms/step - loss: 0.0199 - accuracy: 0.9945 - val_loss: 0.0525 - val_accuracy: 0.9859
+Epoch 14/100
+454/454 [==============================] - 197s 434ms/step - loss: 0.0215 - accuracy: 0.9939 - val_loss: 0.0584 - val_accuracy: 0.9846
+Epoch 15/100
+454/454 [==============================] - 197s 434ms/step - loss: 0.0110 - accuracy: 0.9974 - val_loss: 0.0459 - val_accuracy: 0.9867
+Epoch 16/100
+454/454 [==============================] - 201s 443ms/step - loss: 0.0187 - accuracy: 0.9950 - val_loss: 0.0655 - val_accuracy: 0.9820
+Epoch 17/100
+454/454 [==============================] - 197s 434ms/step - loss: 0.0112 - accuracy: 0.9970 - val_loss: 0.0618 - val_accuracy: 0.9837
+Epoch 18/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0206 - accuracy: 0.9941 - val_loss: 0.0618 - val_accuracy: 0.9863
+Epoch 19/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0123 - accuracy: 0.9965 - val_loss: 0.0559 - val_accuracy: 0.9861
+Epoch 20/100
+454/454 [==============================] - 197s 435ms/step - loss: 0.0117 - accuracy: 0.9966 - val_loss: 0.0508 - val_accuracy: 0.9866
+Restoring model weights from the end of the best epoch.
+Epoch 00020: early stopping
